@@ -1,0 +1,314 @@
+https://www.69re.ee/data/attachment/forum/202111/08/154320lhi4090941ol440p.jpg
+https://www.69re.ee/data/attachment/forum/202111/10/153802ihm7tu4tzqksmcar.jpg
+https://www.69re.ee/data/attachment/forum/202111/10/153953r0lit2s2136e080s.jpg
+https://www.69re.ee/data/attachment/forum/202111/10/154041i7qhyyqayaaa6anx.jpg
+
+https://www.69re.ee/data/attachment/forum/202111/10/155855tr5ii7q0b555ppv0.jpg
+           
+
+http://yms.best/   广告联系：ymsyms778779@gmail.com
+
+http://dongman.best/   linru8987@gmail.com
+
+ http://w7wk.xyz/                           Krishna.Mcrary41825@gmx.com  
+
+http://www.1080hd.vip/       lux8pw@gmail.com
+
+https://xtqj.fczym.xyz/      marrysaved@gmail.com
+ CNAME  fuheimao.github.io
+
+华为云
+热粥视频：
+Bt-Panel: http://119.8.113.162:8888/1785b600
+username: 5rs9hkwz
+password: 95bca334
+
+热洲视频
+搬瓦工3：64.64.251.171
+Bt-Panel: http://64.64.251.171:54387/4a552c8d
+username: dsjdhjdvlvbae23728cas
+password: acvhh43fcdw734gh23rg
+SSH Port:28188
+root:skLRTeMlZYLg
+
+不同服务器端口之间的scp命令：scp -P 28188 /www/wwwroot/www.xkoog.com.tar.gz  root@64.64.251.171:/www/wwwroot 
+
+ffmpeg: /usr/bin/ffmpeg /usr/include/ffmpeg /usr/share/ffmpeg /usr/share/man/man1/ffmpeg.1.gz
+
+namesilo密码：#DvuNuMWpsuG3
+namesilo账号：fuheimao
+namesilo邮箱：429288.。。
+CFCDN密码：#DvuNuMWpsuG3
+mbx0JehgwQpAdTHjX
+paypal:#ytV0Nbss 429
+CF CDN #lnh321123（fuheimao7）
+paypal:#DvuNuMWpsuG3
+fuheimao:He46m4JKJDSjhfd4jr
+
+
+netim：sg2165 ytV0Nbss
+搬瓦工
+Bt-Panel: http://67.230.160.127:49783/fjcwku4ewijf23i748ti3h343
+username: hsjhdj3y48747gfjcsn
+password: ghjgfsgwr3454de2eerf4324t
+          ghjgfsgwr3454de2eerf4324t
+SSH:3294382a
+429288296
+
+宝塔面板端口：49783
+root:DvuNuMWpsuG3
+团团推广短网址http://dwz.sh/NffT
+https短网址http://dwz.sh/I7Bz
+fuheimao推广链接：http://dwz.sh/K41kl
+
+网易邮箱授权码：SDCBTTYWKLUQWJSE
+
+
+创始人密码：DvuNuMWpsuG3
+团团密码：DvuNuMWpsuG3
+6aL3QjtUWnVL（弃用）
+Public IP address:	67.230.183.242
+SSH Port:	28456
+
+客服QQ:2683108808
+
+星空网服务器：
+搬瓦工3
+root:P2KG2azZefKd
+Bt-Panel: http://64.64.242.159:45786/c8c88ff3
+username: tgfw65xg
+password: 0a8f463d
+
+电影模块后台：http://xxo.ee/moviespanel/fuheimao.php
+
+
+
+
+搬瓦工：https://bwh88.net/clientarea.php?__cf_chl_jschl_tk__=17c7e7583831c85c1b95773b9d5ffdc499d9ce18-1583846672-0-ASJS0XT9nsnEhPVE-G08Fd6KF-hyT2_QBGptDCSaXPHJTsz2GQf0QiZKJMHzG0bCD3kXEqaIy0dyirO2nH4MFaMWzy5Bf0APBNMV0a4qugnwOdPtijE3a5rsMtQH38xtjneNsjc9Q36onNEi8TBahKqTFfyktTxwaMK_0RerQRXkZBoqKDUYpV1K9c6w3rrd7ZvaorIb3TpF_6Fy99nW9tp5v-CNubI_nkQvpGNhFRQWU967F4vEOECapqNzm_uPIxHFXAVYUXssAt3QZOGSHT2jQM2-r2nkWVovr52VOKd9
+搬瓦工购买：https://bwh88.net/cart.php?a=checkout
+
+搬瓦工2新账号：zhiyansu@protonmail.com 密码：DvuNuMWpsuG3
+搬瓦工2：（星空电影）
+Bt-Panel: http://93.179.124.6:8888/55c14b97
+username: jw3rbn1q
+password: 44dee819
+
+SSH Port:27414
+root:AWMcZmtn7uts
+
+星空电影模块后台地址：http://www.hzre.xyz/moviespanel/fuheimao.php
+
+域名：https://www.namesilo.com/login.php
+
+香草：（情迷六月）
+Bt-Panel: http://103.144.148.44:8888/6dc5ff4b
+username: fbjoaskz
+password: 7bfa2128
+
+rAktAWhbctSDffp3
+ssh-keygen -R 103.144.148.44
+
+scp /www/wwwroot/www.69re.red.tar.gz root@103.144.148.44:/www/wwwroot
+
+chown -R ccaa:ccaa /www/server/data
+-------------------------------------------------------------
+大功告成，请访问: http://103.144.148.44:6080/
+File Browser 用户名:ccaa
+File Browser 密码:admin
+Aria2 RPC 密钥: ytV0Nbss
+帮助文档: https://dwz.ovh/ccaa （必看）
+
+
+ssl路径
+/www/server/panel/vhost/nginx/www.hzre.xyz_chain.crt
+/www/server/panel/vhost/nginx/www.hzre.xyz_key.key
+
+
+root:ytV0Nbss
+
+喵乎网站：（弃用此服务器）数据库名	用户名 	密码	备份	备注	操作
+	                  tbh172	tbh172	ytV0Nbss
+Bt-Panel: http://103.144.148.128:8888/7bd0ecd0
+username: zfcbe8yi
+password: a2b29b1b
+
+
+
+
+
+
+
+
+
+杏吧https://www.yuanjao.space/info-1.html
+
+scp /www/wwwroot/www.69re.red.tar.gz root@45.128.146.162:/www/wwwroot
+其他服务器传本地服务器：　scp root@45.128.146.162:/www/wwwroot/www.69re.red（2）.tar.gz /www/wwwroot
+scp /www/wwwroot/www.69re.red.rar root@159.138.20.158:/www/wwwroot
+scp /www/wwwroot.zip root@159.138.20.158:/www
+
+create database tbh173;
+scp /www/wwwroot/www.69re.red/photo/touxiang.zip  root@159.138.20.158:/www/wwwroot/www.69re.red/photo
+
+7dizhi@gmail.com
+
+fastcgi_intercept_errors on;
+error_page 404 /404.html;
+
+<li><p class="data">$todayposts</p><p class="desc">{lang index_today}</p></li>
+
+回复可见修改在153行代码
+
+
+
+include /www/server/panel/vhost/nginx/*.conf;
+
+67.230.160.176:0 < 77.82.80.0:0 33052 bytes 25 packets
+67.230.160.176:0 < 152.89.105.0:0 8234 bytes 12 packets
+67.230.160.176:0 < 84.68.114.0:0 1517 bytes 2 packets
+67.230.160.176:0 < 189.176.181.0:0 29825 bytes 22 packets
+67.230.160.176:0 < 200.53.0.1:0 32494 bytes 25 packets
+67.230.160.176:0 < 80.73.0.1:0 14729 bytes 11 packets
+67.230.160.176:0 < 202.225.0.1:0 11416 bytes 8 packets
+67.230.160.176:0 < 80.73.1.1:0 9373 bytes 7 packets
+67.230.160.176:0 < 103.113.3.1:0 15796 bytes 11 packets
+67.230.160.176:0 < 169.239.17.1:0 35243 bytes 27 packets
+67.230.160.176:0 < 95.78.38.1:0 2158 bytes 13 packets
+67.230.160.176:0 < 142.176.57.1:0 42420 bytes 28 packets
+67.230.160.176:0 < 113.161.58.1:0 27193 bytes 21 packets
+67.230.160.176:0 < 69.63.77.1:0 14696 bytes 11 packets
+67.230.160.176:0 < 89.43.86.1:0 19620 bytes 15 packets
+67.230.160.176:0 < 37.18.90.1:0 13845 bytes 17 packets
+67.230.160.176:0 < 195.36.90.1:0 24638 bytes 21 packets
+67.230.160.176:0 < 45.4.95.1:0 6793 bytes 5 packets
+67.230.160.176:0 < 45.181.99.1:0 36730 bytes 28 packets
+67.230.160.176:0 < 66.208.114.1:0 25713 bytes 20 packets
+67.230.160.176:0 < 85.173.115.1:0 33611 bytes 25 packets
+67.230.160.176:0 < 69.42.132.1:0 8808 bytes 12 packets
+67.230.160.176:0 < 45.224.140.1:0 33120 bytes 25 packets
+67.230.160.176:0 < 31.41.145.1:0 10836 bytes 8 packets
+67.230.160.176:0 < 192.139.145.1:0 20157 bytes 19 packets
+67.230.160.176:0 < 94.177.150.1:0 19954 bytes 23 packets
+67.230.160.176:0 < 170.249.153.1:0 27708 bytes 22 packets
+67.230.160.176:0 < 5.135.173.1:0 11730 bytes 15 packets
+67.230.160.176:0 < 200.53.177.1:0 4446 bytes 13 packets
+67.230.160.176:0 < 177.200.189.1:0 31725 bytes 24 packets
+67.230.160.176:0 < 31.179.206.1:0 18116 bytes 18 packets
+67.230.160.176:0 < 188.92.214.1:0 28392 bytes 22 packets
+67.230.160.176:0 < 217.150.214.1:0 20266 bytes 15 packets
+67.230.160.176:0 < 187.99.239.1:0 3236 bytes 4 packets
+67.230.160.176:0 < 180.183.245.1:0 10206 bytes 7 packets
+67.230.160.176:0 < 197.83.0.2:0 16430 bytes 20 packets
+67.230.160.176:0 < 213.154.3.2:0 11862 bytes 11 packets
+67.230.160.176:0 < 119.13.8.2:0 6351 bytes 7 packets
+67.230.160.176:0 < 103.61.10.2:0 30750 bytes 43 packets
+67.230.160.176:0 < 213.109.12.2:0 33313 bytes 25 packets
+67.230.160.176:0 < 96.8.17.2:0 28659 bytes 22 packets
+67.230.160.176:0 < 217.113.22.2:0 12292 bytes 10 packets
+67.230.160.176:0 < 116.212.36.2:0 12155 bytes 13 packets
+67.230.160.176:0 < 152.67.38.2:0 17628 bytes 12 packets
+67.230.160.176:0 < 45.168.41.2:0 27390 bytes 21 packets
+67.230.160.176:0 < 61.91.53.2:0 17496 bytes 12 packets
+67.230.160.176:0 < 209.40.64.2:0 3078 bytes 9 packets
+67.230.160.176:0 < 81.211.65.2:0 30850 bytes 27 packets
+67.230.160.176:0 < 192.248.66.2:0 11824 bytes 8 packets
+67.230.160.176:0 < 181.225.73.2:0 18962 bytes 14 packets
+67.230.160.176:0 < 152.231.74.2:0 28118 bytes 22 packets
+67.230.160.176:0 < 188.191.80.2:0 32202 bytes 24 packets
+67.230.160.176:0 < 212.33.83.2:0 9970 bytes 10 packets
+67.230.160.176:0 < 35.210.87.2:0 17708 bytes 21 packets
+67.230.160.176:0 < 103.72.90.2:0 35233 bytes 27 packets
+67.230.160.176:0 < 103.214.101.2:0 2409 bytes 11 packets
+67.230.160.176:0 < 200.115.108.2:0 24227 bytes 18 packets
+67.230.160.176:0 < 83.239.111.2:0 25977 bytes 20 packets
+67.230.160.176:0 < 185.179.120.2:0 17232 bytes 12 packets
+67.230.160.176:0 < 103.143.129.2:0 7536 bytes 8 packets
+67.230.160.176:0 < 69.42.132.2:0 16572 bytes 18 packets
+67.230.160.176:0 < 89.100.134.2:0 25952 bytes 21 packets
+67.230.160.176:0 < 181.225.136.2:0 12366 bytes 9 packets
+67.230.160.176:0 < 190.248.139.2:0 40339 bytes 31 packets
+67.230.160.176:0 < 94.179.144.2:0 29180 bytes 22 packets
+67.230.160.176:0 < 185.44.166.2:0 25986 bytes 20 packets
+67.230.160.176:0 < 52.168.173.2:0 16080 bytes 20 packets
+67.230.160.176:0 < 86.110.174.2:0 23438 bytes 19 packets
+67.230.160.176:0 < 76.77.176.2:0 14840 bytes 10 packets
+67.230.160.176:0 < 81.88.179.2:0 35934 bytes 27 packets
+67.230.160.176:0 < 190.227.179.2:0 32706 bytes 25 packets
+67.230.160.176:0 < 1.1.186.2:0 25336 bytes 19 packets
+67.230.160.176:0 < 95.29.192.2:0 28109 bytes 22 packets
+67.230.160.176:0 < 196.43.199.2:0 17052 bytes 14 packets
+67.230.160.176:0 < 194.160.221.2:0 27688 bytes 21 packets
+67.230.160.176:0 < 131.0.224.2:0 22980 bytes 17 packets
+67.230.160.176:0 < 178.219.240.2:0 3882 bytes 6 packets
+67.230.160.176:0 < 58.246.240.2:0 28236 bytes 22 packets
+67.230.160.176:0 < 5.2.242.2:0 23254 bytes 18 packets
+67.230.160.176:0 < 80.35.251.2:0 4722 bytes 6 packets
+67.230.160.176:0 < 13.115.2.3:0 4908 bytes 6 packets
+67.230.160.176:0 < 67.204.29.3:0 8652 bytes 6 packets
+67.230.160.176:0 < 180.42.31.3:0 3636 bytes 9 packets
+67.230.160.176:0 < 201.35.34.3:0 33004 bytes 26 packets
+67.230.160.176:0 < 199.127.61.3:0 17283 bytes 20 packets
+67.230.160.176:0 < 147.91.99.3:0 15961 bytes 11 packets
+67.230.160.176:0 < 195.201.105.3:0 26691 bytes 22 packets
+67.230.160.176:0 < 94.127.107.3:0 33541 bytes 25 packets
+67.230.160.176:0 < 192.147.113.3:0 20669 bytes 22 packets
+67.230.160.176:0 < 178.213.114.3:0 20568 bytes 17 packets
+67.230.160.176:0 < 185.152.116.3:0 18252 bytes 13 packets
+67.230.160.176:0 < 52.183.117.3:0 11640 bytes 8 packets
+67.230.160.176:0 < 185.163.119.3:0 14670 bytes 10 packets
+67.230.160.176:0 < 87.194.121.3:0 19850 bytes 17 packets
+67.230.160.176:0 < 187.190.135.3:0 15470 bytes 12 packets
+67.230.160.176:0 < 188.235.157.3:0 35483 bytes 27 packets
+67.230.160.176:0 < 13.68.159.3:0 8412 bytes 6 packets
+67.230.160.176:0 < 91.90.159.3:0 11251 bytes 12 packets
+67.230.160.176:0 < 181.143.165.3:0 1518 bytes 1 packets
+
+
+SSL设置：
+/www/server/panel/vhost/nginx
+ssl_certificate_key /www/server/panel/vhost/nginx/www.69re.me_key.key;
+ssl_certificate /www/server/panel/vhost/nginx/www.69re.me_chain.crt;
+
+
+	$jsCode = <<<EOF
+			<div id="discuz_tips" style="display:none;"></div>
+			<script type="text/javascript">
+				var tipsinfo = '$sId|$version|$cloudApi|$isfounder|$adminId|$openId|$uid|$groupId|$ts|$sig|$clientVersion';
+			</script>
+			<script src="http://discuz.gtimg.cn/cloud/scripts/discuz_tips.js?v=1" type="text/javascript" charset="UTF-8"></script>
+EOF;
+		echo $jsCode;
+
+source/class/discuz/discuz_application.php （约第 187 行处）	$_G['isHTTPS'] = ($_SERVER['HTTPS'] && strtolower($_SERVER['HTTPS']) != 'off') ? true : false;
+查找： $_G['isHTTPS'] = ($_SERVER['HTTPS'] && strtolower($_SERVER['HTTPS']) != 'off') ? true : false; 修改为： $_G['isHTTPS'] = ($_SERVER['SERVER_PORT'] == 443 || $_SERVER['HTTPS'] && strtolower($_SERVER['HTTPS']) != 'off') ? true : false; 
+
+2、查找修改文件avatar.php ： 
+
+uc_server/avatar.php （约第 13 行处）查找： define('UC_API', strtolower(($_SERVER['HTTPS'] == 'on' ? 'https' : 'http').'://'.$_SERVER['HTTP_HOST'].substr($_SERVER['PHP_SELF'], 0, strrpos($_SERVER['PHP_SELF'], '/')))); 修改为： define('UC_API', strtolower(($_SERVER['SERVER_PORT'] == 443 || $_SERVER['HTTPS'] == 'on' ? 'https' : 'http').'://'.$_SERVER['HTTP_HOST'].substr($_SERVER['PHP_SELF'], 0, strrpos($_SERVER['PHP_SELF'], '/')))); 
+
+邮箱恢复吗：a5e0
+99b8
+f1e1
+4f39
+e82e
+45bf
+d108
+11c4
+241c
+a363
+aee3
+3a83
+4a2b
+df99
+cbcf
+e68b
+https://mail.protonmail.com/login
+
+
+
+最新地址：https://chedeng.one https://xiche.one
+地址找回：17fengliu@gmail.com
+
+<a href="http://www.baidu.com/" target="_blank"><img class=pic id=oDIV2 src="https://imgchr.com/i/UFS9SS" width=500 height=500 style="DISPLAY: none;"></a>
+
+lanyuyu
